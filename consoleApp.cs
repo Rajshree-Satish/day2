@@ -11,6 +11,7 @@ namespace Applicationday2
         static void Main(string[] args)
         {
             Console.WriteLine("welcome home");
+            Console.WriteLine("welcome back");
         }
     }
 }
